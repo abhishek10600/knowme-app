@@ -1,0 +1,11 @@
+env
+
+knowme/knowme/.env
+
+knowme/account/__pycache__
+
+knowme/category/__pycache__
+
+knowme/comment/__pycache__ 
+
+knowme/post/__pycache__
